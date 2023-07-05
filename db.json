@@ -1,11 +1,40 @@
 {
-  "posts": [
+  "clubs": [
     {
       "id": 1,
-      "title": "hello"
+      "link": "https://upload.wikimedia.org/wikipedia/ru/thumb/3/3b/FC_Spartak_Moscow_Logotype.svg/1200px-FC_Spartak_Moscow_Logotype.svg.png"
+    },
+    {
+      "id": 2,
+      "link": "https://avatars.dzeninfra.ru/get-zen_doc/1860789/pub_5e77b32b2a8e1c7e3922d640_5e77b347772e8617f2d5e5a5/scale_1200"
+    },
+    {
+      "id": 3,
+      "link": "https://sun9-32.userapi.com/impg/W5F3ink37mBmsCQeKGG4gmH_f8WIcFIqP2Fc8Q/Fj7z47cD1U0.jpg?size=720x720&quality=96&sign=abede0a59650e6d06a06c7e2d5006f35&c_uniq_tag=nhZf4BHPg-EInHTJgHjcV21NeC7U3bb-ElJmlU8tnGk&type=album"
+    },
+    {
+      "id": 4,
+      "link": "https://i.pinimg.com/originals/28/0f/9f/280f9f2191ad2b52992d37a293f11471.png"
+    },
+    {
+      "id": 5,
+      "link": "https://prv2.lori-images.net/emblema-futbolnogo-kluba-krasnodarg-krasnodar-0002830646-preview.jpg"
+    },
+    {
+      "id": 6,
+      "link": "https://sun9-52.userapi.com/impg/r0SHr-uWEkXpGQMnOo-iNcfKz-8TQKEubiUb6w/MheDJUIseCY.jpg?size=1000x1000&quality=95&sign=7f1ce3e22ce9b8355414b5674625ffca&c_uniq_tag=u12I01K1etxSldsphj7aqGiE0YeE0MI67qbzeAX5R6Q&type=album"
+    },
+    {
+      "id": 7,
+      "link": "https://api.1fnl.ru/upload/s4y_teams/9/BigImage/Baltika.png"
+    },
+    {
+      "id": 8,
+      "link": "https://static.tildacdn.com/tild6566-6466-4161-a136-663231636662/Ftbl-144.png"
+    },
+    {
+      "id": 9,
+      "link": "https://avatars.mds.yandex.net/i?id=2a13edbc0167bf6b377d38c2e8f498cbc7a510f3-7764851-images-thumbs&ref=rim&n=33&w=188&h=188"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
