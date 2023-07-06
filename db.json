@@ -41,17 +41,17 @@
     {
       "id": "Max@gmail.com",
       "login": "Max@gmail.com",
-      "password": 1234
+      "password": "1234"
     },
     {
       "id": "Marat@gmail.com",
       "login": "Marat@gmail.com",
-      "password": 1234
+      "password": "12345"
     },
     {
       "id": "Ivan@gmail.com",
       "login": "Ivan@gmail.com",
-      "password": 1234
+      "password": "123456"
     }
   ]
 }
