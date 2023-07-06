@@ -36,5 +36,22 @@
       "id": 9,
       "link": "https://avatars.mds.yandex.net/i?id=2a13edbc0167bf6b377d38c2e8f498cbc7a510f3-7764851-images-thumbs&ref=rim&n=33&w=188&h=188"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "login": "Max@gmail.com",
+      "password": 1234
+    },
+    {
+      "id": 2,
+      "login": "Marat@gmail.com",
+      "password": 1234
+    },
+    {
+      "id": 3,
+      "login": "Ivan@gmail.com",
+      "password": 1234
+    }
   ]
 }
