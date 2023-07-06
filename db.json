@@ -39,17 +39,17 @@
   ],
   "users": [
     {
-      "id": 1,
+      "id": "Max@gmail.com",
       "login": "Max@gmail.com",
       "password": 1234
     },
     {
-      "id": 2,
+      "id": "Marat@gmail.com",
       "login": "Marat@gmail.com",
       "password": 1234
     },
     {
-      "id": 3,
+      "id": "Ivan@gmail.com",
       "login": "Ivan@gmail.com",
       "password": 1234
     }
